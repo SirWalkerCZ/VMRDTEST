@@ -1,0 +1,14 @@
+# Ignore specific directories
+journeymap/
+logs/
+saves/
+defaultconfigs/
+disabledmods/
+jarmods/
+kubejs/
+schematics/
+instance.json
+options.txt
+rhino.local.properties
+usercache.json
+usernamecache.json

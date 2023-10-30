@@ -14,7 +14,9 @@
   "acceptVanillaFuel": true,
   "useCustomKeybindSystem": true,
   "fuelList": {
-    "minecraft:blaze_powder": 1200
+    "minecraft:blaze_powder": 1200,
+    "immersiveengineering:coal_coke": 2400,
+    "immersivepetroleum:petcoke": 2400
   },
   "version": 1
 }
